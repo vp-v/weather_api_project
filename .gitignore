@@ -1,0 +1,17 @@
+# Secret Keys 
+.env
+
+# Python environment
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Testing Reports
+report.html
+assets/
+.pytest_cache/
+
+# OS specific files
+.DS_Store
+Thumbs.db
